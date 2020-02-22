@@ -2,6 +2,7 @@
 
 | Rom | Build Date | Download               | Android Version |
 |:----------------|:------------------|:---------------------------------------------------|:--------|
+| CorvusOS | 22022020 | [Corvus_v2.0-kenzo-22022020-UNOFFICIAL.zip](https://www.pling.com/p/1361898/startdownload?file_id=1582347992&file_name=Corvus_v2.0-kenzo-22022020-UNOFFICIAL.zip&file_type=application/zip&file_size=632) | 10 |
 | CorvusOS | 09022020 | [Corvus_v1.0-kenzo-09022020-UNOFFICIAL.zip](https://www.pling.com/p/1344383/startdownload?file_id=1581278411&file_name=Corvus_v1.0-kenzo-09022020-UNOFFICIAL.zip&file_type=application/zip&file_size=627310262) | 10 |
 | CorvusOS | 06022020 | [Corvus_v1.0-kenzo-06022020-UNOFFICIAL.zip](https://www.pling.com/p/1344383/startdownload?file_id=1581019968&file_name=Corvus_v1.0-kenzo-06022020-UNOFFICIAL.zip&file_type=application/zip&file_size=682525371) | 10 |
 | Durex | 24012020 | [DureX-BETA-10-kenzo-20200124-2138.zip](https://www.pling.com/p/1344383/startdownload?file_id=1579909610&file_name=DureX-BETA-10-kenzo-20200124-2138.zip&file_type=application/zip&file_size=672563709) | 10 |
